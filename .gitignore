@@ -188,9 +188,7 @@ src/js/main.bundle.*
 src/css
 
 dist
-build
 /dist
-/build
 
 */**/sprite.svg
 */**/_svg-sprite.scss

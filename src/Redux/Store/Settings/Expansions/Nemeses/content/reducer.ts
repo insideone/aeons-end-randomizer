@@ -9,6 +9,7 @@ export const initialState: State = {
   FR: AERData.normalizedData.FR.nemeses,
   PL: AERData.normalizedData.PL.nemeses,
   DE: AERData.normalizedData.DE.nemeses,
+  RU: AERData.normalizedData.RU.nemeses,
 }
 
 export const Reducer: LoopReducer<State, Action> = (

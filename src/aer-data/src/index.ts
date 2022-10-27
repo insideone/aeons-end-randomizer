@@ -2,6 +2,7 @@ import ENG from './ENG'
 import FR from './FR'
 import PL from './PL'
 import DE from './DE'
+import RU from './RU'
 
 import { MARKETSETUPS } from './marketSetups'
 import { TURNORDERSETUPS, TURNORDERCARDS } from './turnOrderSetups'
@@ -16,6 +17,7 @@ const aerData = {
     FR: createNormalizedData(FR),
     PL: createNormalizedData(PL),
     DE: createNormalizedData(DE),
+    RU: createNormalizedData(RU),
   },
   defaultSupplyCount: DEFAULTSUPPLYCOUNT,
   marketsetups: MARKETSETUPS,

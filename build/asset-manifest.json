@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/aeons-end-randomizer/static/js/main.8e45762c.chunk.js",
+    "main.js.map": "/aeons-end-randomizer/static/js/main.8e45762c.chunk.js.map",
+    "runtime-main.js": "/aeons-end-randomizer/static/js/runtime-main.f35e1dec.js",
+    "runtime-main.js.map": "/aeons-end-randomizer/static/js/runtime-main.f35e1dec.js.map",
+    "static/css/2.509ff8b7.chunk.css": "/aeons-end-randomizer/static/css/2.509ff8b7.chunk.css",
+    "static/js/2.448d8b94.chunk.js": "/aeons-end-randomizer/static/js/2.448d8b94.chunk.js",
+    "static/js/2.448d8b94.chunk.js.map": "/aeons-end-randomizer/static/js/2.448d8b94.chunk.js.map",
+    "index.html": "/aeons-end-randomizer/index.html",
+    "static/css/2.509ff8b7.chunk.css.map": "/aeons-end-randomizer/static/css/2.509ff8b7.chunk.css.map",
+    "static/js/2.448d8b94.chunk.js.LICENSE.txt": "/aeons-end-randomizer/static/js/2.448d8b94.chunk.js.LICENSE.txt",
+    "static/media/github-logo.9c0b26d3.svg": "/aeons-end-randomizer/static/media/github-logo.9c0b26d3.svg",
+    "static/media/rpg-awesome.min.css": "/aeons-end-randomizer/static/media/rpgawesome-webfont.5ddfbfc5.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f35e1dec.js",
+    "static/css/2.509ff8b7.chunk.css",
+    "static/js/2.448d8b94.chunk.js",
+    "static/js/main.8e45762c.chunk.js"
+  ]
+}
