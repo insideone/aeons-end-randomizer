@@ -1,6 +1,7 @@
 import { IExpansionData } from '../../../aer-types/types'
 
 import { aeonsEndData } from './aeonsEnd'
+import { promosData } from './promos'
 
 const RU: IExpansionData = {
   AE: aeonsEndData,
@@ -9,7 +10,7 @@ const RU: IExpansionData = {
   // OD: outerDarkData,
   // TV: theVoidData,
   // WE: warEternalData,
-  // promos: promosData,
+  promos: promosData,
 }
 
 export default RU
